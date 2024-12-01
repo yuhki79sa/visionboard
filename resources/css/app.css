@@ -1,0 +1,5 @@
+@import "./BucketList.css";
+@import "./style.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
